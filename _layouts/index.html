@@ -2,7 +2,7 @@
 layout: page
 ---
 {{ content }}
-<h2>Recent</h2>
+<h2>近期</h2>
 <ul>
   {% for post in site.posts limit:5 %}
   <li>
@@ -11,20 +11,7 @@ layout: page
   {% endfor %}
   <li>
     <a href="/archive">
-      All {{ site.posts.size }} posts...
+      有 {{ site.posts.size }} 博客发表
     </a>
   </li>
 </ul>
-<h2>Essay</h2>
-{% for tag in site.index.showtag %}
-<h3>
-  {{ tag }}
-</h3>
-<ul>
-  {% for post in site.tags[tag] %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
-{% endfor %}

@@ -1,46 +1,27 @@
 ---
 layout: index
-title: 星合の空
+title: 天使の国
 ---
-## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- E-mail:
-  - **wu.kan@foxmail.com**
-  - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com**
-- WeChat: **Wu-_-Kan**
-- QQ: **942759535**
-- Blog: **<https://wu-kan.github.io>**
+## 关于我
+> Hello 陌生人，欢迎访问 Gabe Blog
 
-## Education
+该博客托管于 GitHub Page，博客网站由jekyll自动生成，模板作者[wu-kan](https://github.com/wu-kan/jekyll-theme-WuK)；
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
+该博客只用于记录CTF竞赛相关知识。
+### 兴趣爱好
 
-- Bachelor of Computer Science (Supercomputer Class)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+- C/C++/Python
+- 数据结构与算法
+- Linux
+- 逆向分析
+- 数学
+- 网络编程与开发
+- 前端与后端
 
-## Award
+### 联系我
 
-- **Silver Medal**, ICPC Asia Regional Contest Xuzhou Site, Nov. 2019
-- **Second Scholarship**, Oct. 2019
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
-- **Third Scholarship**, Oct. 2018
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+- QQ : 2531969632
+- Email : agc0202126@163.com
 
-## Skill
 
-- **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Learning
-- **Python**, Familiar
-- **Markdown**, Familiar
-- **LaTex**, Familiar
-- **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
-- **Haskell**, Prior Experience
